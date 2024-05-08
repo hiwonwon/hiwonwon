@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=hiwonwon&fontSize=90)
+-----
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hiwonwon)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hiwonwon) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiwonwon&layout=compact)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiwonwon&layout=compact)
+
