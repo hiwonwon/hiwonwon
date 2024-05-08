@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=#87CEFA&height=300&section=header&text=hiwonwon%20&fontSize=90&fontColor=#FFFFFF&animation=blink)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=#87CEFA&height=300&section=header&text=hiwonwon%20&fontSize=90&fontColor=#auto&animation=blink)
 <!--
 **hiwonwon/hiwonwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
