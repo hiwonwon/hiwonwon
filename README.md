@@ -2,4 +2,4 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hiwonwon)
 
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiwonwon&layout=레이아웃 스타일&theme=스타일)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiwonwon&layout=compact)
