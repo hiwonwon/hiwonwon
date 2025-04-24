@@ -31,3 +31,4 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hyewon9913@gmail.com)](mailto:hyewon9913@gmail.com)
 
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle={hyewon9913}&theme=cold)
+<img src="http://mazandi.herokuapp.com/api?handle={hyewon9913}&theme=cold"/>
