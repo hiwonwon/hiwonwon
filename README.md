@@ -1,4 +1,4 @@
-# HI WON WON🧐
+# 일상을 편리하게 바꾸는 개발자 hi won 입니다.
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhiwonwon&count_bg=%239AD1F0&title_bg=%23555555&icon=&icon_color=%23E0B6B6&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiwonwon&show_icons=true&theme=tokyonight)
@@ -29,3 +29,5 @@
 # :mailbox_with_mail: Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=tistory&link=https://hiwonwon.tistory.com/)](https://hiwonwon.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hyewon9913@gmail.com)](mailto:hyewon9913@gmail.com)
+
+![mazandi profile](http://mazandi.herokuapp.com/api?handle={hyewon9913}&theme=cold)
